@@ -7,7 +7,7 @@
 ## 💻 About Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarithmijal&repo=sarithmijal&theme=tokyonight&hide_border=true" alt="Pinned Repo" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/header.svg" width="100%" alt="Header Illustration" />
 </p>
 
 I'm an Information Systems Engineering student at the Central University of Ecuador. I enjoy learning and creating new, productive, innovative, and creative things.
@@ -63,9 +63,6 @@ I'm an Information Systems Engineering student at the Central University of Ecua
 
 ---
 
-<h3 align="center">
-  <span style="color: #ff79c6;">"El software y las catedrales son muy similares:</span><br>
-  <span style="color: #8be9fd;">primer se construyen,</span> 
-  <span style="color: #50fa7b;">luego se reza por ellos..."</span><br>
-  <sub style="color: #f1fa8c;">— Sam Redwine</sub>
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&lines=%22El+software+y+las+catedrales+son+muy+similares%3A%22;%22primero+se+construyen%2C+luego+se+reza+por+ellos...%22;%E2%80%94+Sam+Redwine" alt="Quote Animation" />
+</p>
