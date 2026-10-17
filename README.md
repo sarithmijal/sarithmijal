@@ -16,7 +16,7 @@
       * ✅ Ask me anything; I'd be happy to help.
     </td>
     <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/developer.gif" width="100%" alt="Developer Working" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-engineer-bro.svg" width="100%" alt="Developer Working" />
     </td>
   </tr>
 </table>
@@ -28,7 +28,7 @@
 ### Languages & Backend
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io5/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -69,10 +69,10 @@
 ## 📱 Connect with me 🤝
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/sarith-mijal-chamorro-cruz-105077425/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tu-correo@example.com" target="_blank">
+  <a href="mailto:mijalponce1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
