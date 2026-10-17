@@ -7,7 +7,7 @@
 ## 💻 About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/images/header.svg" width="100%" alt="Header Illustration" />
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-engineer-bro.svg" width="60%" alt="Developer Illustration" />
 </p>
 
 I'm an Information Systems Engineering student at the Central University of Ecuador. I enjoy learning and creating new, productive, innovative, and creative things.
