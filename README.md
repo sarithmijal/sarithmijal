@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi, I'm Sarith 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarithmijal&color=9e281d&style=flat-square&label=Profile+Views" alt="Profile views" />
-</p>
+
 
 ---
 
