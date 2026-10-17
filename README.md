@@ -1,17 +1,25 @@
 <h1 align="center">Hi , I'm Sarith 👋</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarithmijal&color=blue&style=flat-square" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=sarithmijal&color=9e281d&style=flat-square" alt="contador de visitas" />
 </div>
 
 ## 💻 About me
 
-I'm an Information Systems Engineering student at the Central University of Ecuador. I love learning and creating new, productive, innovative, and creative things.
-
-* 🌱 I'm currently learning more about software architecture, web development, and backend technologies.
-* 🤝 I'd like to collaborate on open-source projects related to systems development and data analysis.
-* 🔭 Right now, I'm very focused on improving my software development skills and exploring new technologies.
-* ✅ Ask me anything; I'd be happy to help.
+<table>
+  <tr>
+    <td width="60%">
+      I'm an Information Systems Engineering student at the Central University of Ecuador. I love learning and creating new, productive, innovative, and creative things.<br><br>
+      * 🌱 I'm currently learning more about modern software architecture, web development, and cloud tech.<br>
+      * 🤝 I'd like to collaborate on open-source projects related to systems development.<br>
+      * 🔭 Right now, I'm very focused on improving my software development skills and exploring new technologies.<br>
+      * ✅ Ask me anything; I'd be happy to help.
+    </td>
+    <td width="40%" align="center">
+      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/developer.gif" width="100%" alt="Developer Working" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,7 +40,7 @@ I'm an Information Systems Engineering student at the Central University of Ecua
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -46,9 +54,28 @@ I'm an Information Systems Engineering student at the Central University of Ecua
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarithmijal/sarithmijal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sarithmijal/sarithmijal/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sarithmijal/sarithmijal/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
 ## 📱 Connect with me 🤝
 
-* **GitHub:** [sarithmijal](https://github.com/sarithmijal)
+<p align="center">
+  <a href="https://linkedin.com/in/tu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tu-correo@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
