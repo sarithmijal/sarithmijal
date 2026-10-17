@@ -16,7 +16,7 @@
       * ✅ Ask me anything; I'd be happy to help.
     </td>
     <td width="40%" align="center">
-      <img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-illustration-download-in-svg-png-gif-file-formats--programming-coding-software-development-pack-business-illustrations-3309831.png?f=webp&w=600" width="100%" alt="Developer Working" />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d8850d500ee.gif" width="100%" alt="Developer Animation" />
     </td>
   </tr>
 </table>
